@@ -1,10 +1,9 @@
 {
-  "project": "Example",
+  "project": "eds-training",
   "plugins": [
     {
       "id": "library",
       "title": "Library",
-      "environments": ["edit"],
       "url": "/tools/sidekick/library.html"
     }
   ]
